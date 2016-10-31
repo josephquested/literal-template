@@ -1,0 +1,26 @@
+{
+  "name": "literal-template",
+  "version": "1.0.0",
+  "description": "skinny server-side rendering engine powered by template literal strings",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/josephquested/literal-template.git"
+  },
+  "keywords": [
+    "server",
+    "side",
+    "templating"
+  ],
+  "author": "josephquested",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephquested/literal-template/issues"
+  },
+  "homepage": "https://github.com/josephquested/literal-template#readme"
+}
